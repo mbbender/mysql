@@ -11,3 +11,5 @@ python-manta/
 
 # macos frustration
 .DS_Store
+
+.idea
